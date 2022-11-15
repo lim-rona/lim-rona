@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌸 I’m currently working on: VTTP Project<br>🌱 I’m currently learning: Angular, Data Structures&Algorithms<br>💬 Ask me anything at: limrona97@gmail.com<br>
+🌸 I’m currently working on: An Angular x SpringBoot journalling project<br>🌱 I’m currently learning: Angular, Data Structures&Algorithms<br>💬 Ask me anything at: limrona97@gmail.com<br>
 
 
 ## 🌐 Socials:
